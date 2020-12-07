@@ -1,0 +1,145 @@
+.uiback{
+    background-color: rgb(255, 255, 255);
+}
+.navigation{
+    list-style-type: none;
+    line-height: 58px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bolder;
+    color: rgb(10, 10, 10);
+    font-size: 22px;
+    margin-left: 30px;
+    padding-right: 20px;
+}
+.act{
+    color: rgb(29, 161, 243);
+}
+.tweet{
+    margin-top: 15px;
+    background-color:  rgb(29, 161, 243);
+    color: rgb(255, 255, 255);
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bolder;
+    border-radius: 25px;
+    height: 50px;
+}
+.tweet:hover{
+    margin-top: 15px;
+    background-color:  rgb(35, 171, 255);
+    color: rgb(255, 255, 255);
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bolder;
+    border-radius: 25px;
+    height: 50px;
+    transition: ease-in-out 0.3s;
+}
+.heading{
+    color: rgb(14, 14, 14);
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bolder;
+    font-size: 20px;
+    padding: 10px 0px;
+}
+.standard{
+    padding: 13px 0px;
+}
+.whbox{
+    color: rgb(106, 115, 120);
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(231,236,240);
+    height: 36px;
+    border-radius: 25px;
+    margin-top: 3px;
+    margin-left: 12px;
+    padding: 6px;
+    padding-left: 15px;
+}
+.faint{
+    color: rgb(106, 115, 120);
+    padding-left: 6px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: lighter;
+    font-size: 19px;
+}
+.handle{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bolder;
+}
+.arrow{
+    color: rgb(106, 115, 120);
+    padding-left: 6px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: lighter;
+    font-size: 19px;
+}
+.thread{
+    margin-top: -8px;
+}
+.mention{
+   color:  rgb(29, 161, 243);
+}
+.lishlo{
+    padding-right: 90px;
+    color: rgb(106, 115, 120);
+}
+.lasviewp{
+    margin-left: 40px;
+}
+.top{
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(106, 115, 120);
+    font-size: 10px;
+    margin-top: 7px;
+    margin-bottom: 3px;
+}
+.media{
+    border-radius: 18px;
+    margin-top: 8px;
+}
+.whbox1{
+    color: rgb(106, 115, 120);
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(231,236,240);
+    height: 36px;
+    border-radius: 25px;
+    margin-top: 3px;
+    padding: 6px;
+    padding-left: 15px;
+}
+.rightPanel{
+    background-color: rgb(244, 248,251);
+    padding: 8px;
+    padding-top: 0px;
+    border-radius: 13px;
+    margin-top: 15px;
+    border: none;
+}
+.rightptext{
+    line-height: 0px;
+    padding-bottom: -20px;
+}
+.topp{
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(106, 115, 120);
+    font-size: 13px;
+}
+.handled{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    font-weight: bolder;
+    margin-top: -13px;
+    padding-bottom: 13px;
+}
+.faintt{
+    color: rgb(106, 115, 120);
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: lighter;
+    font-size: 15px;
+}
+/* .sliden{
+    width: 10px !important;
+    height: 10px !important;
+    border-radius: 50% !important;
+    background-color: rgb(247, 247, 247) !important;
+    margin-right: 10px !important;
+} */
